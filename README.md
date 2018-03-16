@@ -16,4 +16,4 @@ Requirements to run the program:
       d) Connect light sensor to port 4
       
       e) Connect touch sensor to port 2
-  5) Ensure that the Ultrasonic sensor is pointing towards the right and the touch sensor is attached in front so that when the robot hits the wall the touch sensor is activated
+  5) Ensure that the Ultrasonic sensor is pointing towards the right, the touch sensor is attached in front so that when the robot hits the wall the touch sensor is activated, and the light sensor is facing towards the bottom surface of the maze
