@@ -4,7 +4,7 @@ This repository contains code for the Right Wall following algorithm that is use
 Requirements to run the program:
   1) Matlab
   2) LEGO Mindstorm EV3
-  3) Basic Driving Base
+  3) Basic driving base
   4) Ultrasonic, light and touch sensors should be connected to the LEGO brick at the according to the port specification mentioned below
   
       a) Connect right motor to port B
